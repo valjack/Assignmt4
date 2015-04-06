@@ -1,15 +1,15 @@
-h1 {width: 600px; text-align: center; font-family: sans-serif;}
+h1 {width: 600px; text-align: center; font-family: sans-serif; resize: both;}
 
-h2 {width: 600px; text-align: center; font-family: sans-serif;}
+h2 {width: 600px; text-align: center; font-family: sans-serif; resize: both;}
 
-select {text-align: left; font-family: sans-serif;}
+select {text-align: left; font-family: sans-serif; resize: both; }
 
-section.section1{background-color: #3366FF; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; }
+section.section1{background-color: #3366FF; padding: 20px; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; resize: both; }
 
 #assn4-bluepicture {padding: 5px; float: right; height: 35%; width: 35%; border: thick}
 
-section.section2{background-color: #DDCCFF; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px;}
+section.section2{background-color: #DDCCFF; padding: 20px; visibility: hidden; font-family: sans-serif; position: absolute; left: 25px; top: 125px; width: 600px; resize: both; }
 
 #assn4-purplepicture {padding: 5px; float: right; height: 35%; width: 35%; border: thick;}
 
-footer {width: 600px; font-family: sans-serif; font-style: italic; text-align: center; position: relative; top: 240px;}
+footer {width: 600px; font-family: sans-serif; font-style: italic; text-align: center; position: relative; top: 255px;}
